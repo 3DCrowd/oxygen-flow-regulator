@@ -1,4 +1,4 @@
-# O2D1
+# Oxygen flow regulator
 This is an oxygen flow limiting device as part of the Helpful Hackathon. A 3D printable oxygen metering device that would allow the care-giver to set the pressure on the bottle of oxygen and know how much oxygen they are getting. 
 
 The concept is similar to an orifice flow metering device, where if you have an orifice that the flow moves through of a set diameter and you know what the pressure drop is across that diameter you can infer the flow rate. 
